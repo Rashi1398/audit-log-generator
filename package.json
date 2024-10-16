@@ -1,0 +1,19 @@
+{
+  "name": "audit-log-generator",
+  "version": "1.0.0",
+  "description": "Audit log Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audit-logs"
+  ],
+  "author": "Rashi Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4",
+    "mongodb": "^6.8.0"
+  }
+}
